@@ -8,3 +8,4 @@ End Code
         Thank you for confirming your email. Please @Html.ActionLink("Click here to Log in", "Login", "Account", routeValues:=Nothing, htmlAttributes:=New With {Key .id = "loginLink"})
     </p>
 </div>
+    
